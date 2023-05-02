@@ -18,7 +18,7 @@
 
 [//]: # (* [Strategy]&#40;behavioral/strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
 
-* [Template](behavioral/template) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
+* [Template](behavioral/template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
 
 [//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
 
