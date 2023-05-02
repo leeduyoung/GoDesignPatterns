@@ -1,14 +1,21 @@
-# Creational patterns
+# Behavioral patterns
 
-Some patterns can overlap a bit. Use them with care and in the right context.
-Remember that these patterns's purpose is to abstract the creation of objects
-for complexity and maintenance purpose.
+We are going to deal with behaviors instead of define structures or encapsulate object creation.
 
-## Creational
+## Behavioral
 
-* [Abstract Factory method](abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
-* [Builder](builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
-* [Factory method](factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
-* [Object Pool](pool) [:notebook:](http://en.wikipedia.org/wiki/Object_Pool_pattern)
-* [Prototype](prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
-* [Singleton](singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
+* [State](state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
+* [Observer](observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Strategy](strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Mediator](mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Template](template) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
+
+[//]: # (* [Chain of responsiblity]&#40;chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
+
+[//]: # (* [Command]&#40;command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
+
+[//]: # (* [Interpreter]&#40;interpreter&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Interpreter_pattern&#41;)
+
+[//]: # (* [Memento]&#40;memento&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Memento_pattern&#41;)
+
+[//]: # (* [Visitor]&#40;visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)

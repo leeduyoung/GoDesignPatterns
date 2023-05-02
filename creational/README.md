@@ -7,8 +7,13 @@ for complexity and maintenance purpose.
 ## Creational
 
 * [Abstract Factory method](abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
-* [Builder](builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
-* [Factory method](factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
-* [Object Pool](pool) [:notebook:](http://en.wikipedia.org/wiki/Object_Pool_pattern)
-* [Prototype](prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
-* [Singleton](singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
+
+[//]: # (* [Builder]&#40;builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
+
+[//]: # (* [Factory method]&#40;factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Factory_pattern&#41;)
+
+[//]: # (* [Object Pool]&#40;pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
+
+[//]: # (* [Prototype]&#40;prototype&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Prototype_pattern&#41;)
+
+[//]: # (* [Singleton]&#40;singleton&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Singleton_pattern&#41; &#40;is considered an anti-pattern! :no_entry:&#41;)
