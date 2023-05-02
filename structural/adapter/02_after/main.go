@@ -6,13 +6,9 @@ import (
 )
 
 func main() {
-	var (
-		searchService SearchServiceInterface
-	)
-
 	queryService := new(third_party.Query)
-	searchService = NewSearchServiceAdapter(queryService)
-
+	var searchService SearchServiceInterface = NewSearchServiceAdapter(queryService)
+	
 	fmt.Println(
 		searchService.Search("design_pattern"),
 	)
