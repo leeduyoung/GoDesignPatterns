@@ -5,15 +5,9 @@ import "fmt"
 type DBAuth struct {
 }
 
-func (dba *DBAuth) Authenticate(id, password string) (string, error) {
+func (dba *DBAuth) Authenticate(id, password string) string {
 	// step1. 사용자 정보로 인증 확인
-	userName := dbLogin(id, password)
-
-	fmt.Println("step2. 인증 실패시 예외처리")
-
-	fmt.Println("step3. 인증 성공시 인증정보 제공")
-
-	return userName, nil
+	return dbLogin(id, password)
 }
 
 func dbLogin(id, password string) string {

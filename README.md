@@ -18,7 +18,7 @@
 
 [//]: # (* [Strategy]&#40;behavioral/strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
 
-[//]: # (* [Template]&#40;behavioral/template&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Template_pattern&#41;)
+* [Template](behavioral/template) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
 
 [//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
 
@@ -36,7 +36,7 @@
 
 ## [구조적인 패턴](structural)
 
-* [Adapter](structural/adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [어댑터](structural/adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
 
 [//]: # (* [Binary Tree compositions]&#40;structural/binary-tree-compositions&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Binary_tree&#41;)
 
