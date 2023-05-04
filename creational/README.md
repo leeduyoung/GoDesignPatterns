@@ -6,7 +6,7 @@ for complexity and maintenance purpose.
 
 ## Creational
 
-* [Abstract Factory method](abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
+* [추상 팩토리 메서드](abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
 
 [//]: # (* [Builder]&#40;builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
 
