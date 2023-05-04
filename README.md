@@ -46,6 +46,6 @@
 
 [//]: # (* [Decorator]&#40;structural/decorator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Decorator_pattern&#41;)
 
-[//]: # (* [Flyweight]&#40;structural/flyweight&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Flyweight_pattern&#41;)
+* [플라이웨이트](structural/flyweight) [:notebook:](https://en.wikipedia.org/wiki/Flyweight_pattern)
 
 [//]: # (* [Proxy]&#40;structural/proxy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Proxy_pattern&#41;)
