@@ -6,7 +6,7 @@
 
 [//]: # (* [Command]&#40;behavioral/command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
 
-[//]: # (* [Interpreter]&#40;behavioral/interpreter&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Interpreter_pattern&#41;)
+* [인터프리터](behavioral/interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
 
 [//]: # (* [Mediator]&#40;behavioral/mediator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Mediator_pattern&#41;)
 
