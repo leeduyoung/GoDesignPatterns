@@ -10,7 +10,7 @@
 
 [//]: # (* [Mediator]&#40;behavioral/mediator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Mediator_pattern&#41;)
 
-[//]: # (* [Memento]&#40;behavioral/memento&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Memento_pattern&#41;)
+* [메멘토](behavioral/memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
 
 [//]: # (* [Observer]&#40;behavioral/observer&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Observer_pattern&#41;)
 
