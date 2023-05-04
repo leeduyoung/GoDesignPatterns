@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// FontFactory 캐싱 처리를 통해 메모리를 절약한다
 type FontFactory struct {
 	cache map[string]*Font
 }
