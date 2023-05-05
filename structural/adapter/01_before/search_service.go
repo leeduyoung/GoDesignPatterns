@@ -4,7 +4,7 @@ var keywordMap = map[string][]string{
 	"design_pattern": {"structural", "creational", "behavioral"},
 	"structural":     {"composite", "proxy"},
 	"creational":     {"builder", "factory"},
-	"behavioral":     {"state", "template"},
+	"behavioral":     {"state", "proxy"},
 }
 
 type SearchService struct {
