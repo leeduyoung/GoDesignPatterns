@@ -14,7 +14,7 @@
 
 [//]: # (* [Observer]&#40;behavioral/observer&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Observer_pattern&#41;)
 
-[//]: # (* [State]&#40;behavioral/state&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/State_pattern&#41;)
+* [상태](behavioral/state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
 
 * [전략](behavioral/strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
 
