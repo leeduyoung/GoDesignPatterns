@@ -16,7 +16,7 @@
 
 [//]: # (* [State]&#40;behavioral/state&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/State_pattern&#41;)
 
-[//]: # (* [Strategy]&#40;behavioral/strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
+* [전략](behavioral/strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
 
 * [템플릿메소드](behavioral/template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
 
