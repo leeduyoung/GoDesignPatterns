@@ -44,7 +44,7 @@
 
 [//]: # (* [Composite]&#40;structural/composite&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Composite_pattern&#41;)
 
-[//]: # (* [Decorator]&#40;structural/decorator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Decorator_pattern&#41;)
+* [데코레이터](structural/decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)
 
 * [플라이웨이트](structural/flyweight) [:notebook:](https://en.wikipedia.org/wiki/Flyweight_pattern)
 
