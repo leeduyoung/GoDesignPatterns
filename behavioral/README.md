@@ -1,8 +1,10 @@
-# Behavioral patterns
+# 행동 관련 패턴
 
-We are going to deal with behaviors instead of define structures or encapsulate object creation.
+행동 패턴은 개체 간의 통신 또는 개체가 상호 작용하고 책임을 수행하는 방법에 중점을 둔다. 
 
-## Behavioral
+이러한 패턴은 개체 간의 통신 및 상호 작용을 개선하여 응용 프로그램을 보다 유연하고 확장 가능하며 유지 관리할 수 있도록 한다.
+
+## 목록
 
 * [템플릿메소드](template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
 * [메멘토](memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
