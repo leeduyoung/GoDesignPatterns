@@ -1,11 +1,12 @@
-package main
+package authenticate
 
 import "fmt"
 
 type DBAuth struct {
 }
 
-func (dba *DBAuth) Authenticate(id, password string) string {
+// authenticate 패키지 내에서만 호출되도록 제한
+func (dba *DBAuth) authenticate(id, password string) string {
 	// step1. 사용자 정보로 인증 확인
 	return dbLogin(id, password)
 }

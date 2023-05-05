@@ -1,9 +1,9 @@
-package main
+package authenticate
 
 import "fmt"
 
 type AuthInterface interface {
-	Authenticate(id, password string) string
+	authenticate(id, password string) string
 }
 
 type Auth struct {
@@ -16,8 +16,9 @@ func NewAbstractAuth(auth AuthInterface) *Auth {
 	}
 }
 
+// Auth 퍼블릭 메서드로 공개된다
 func (a *Auth) Auth(id, password string) (string, error) {
-	userName := a.Authenticate(id, password)
+	userName := a.authenticate(id, password)
 
 	fmt.Println("step2. 인증 실패시 예외처리")
 
