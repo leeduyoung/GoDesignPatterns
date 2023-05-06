@@ -6,14 +6,13 @@
 * [전략](behavioral/strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
 * [템플릿메소드](behavioral/template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
 * [메멘토](behavioral/memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
+* [옵저버](behavioral/observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
 
 [//]: # (* [Chain of responsiblity]&#40;behavioral/chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
 
 [//]: # (* [Command]&#40;behavioral/command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
 
 [//]: # (* [Mediator]&#40;behavioral/mediator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Mediator_pattern&#41;)
-
-[//]: # (* [Observer]&#40;behavioral/observer&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Observer_pattern&#41;)
 
 [//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
 
