@@ -10,8 +10,7 @@
 * [메멘토](memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
 * [인터프리터](interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
 * [상태](state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
-
-[//]: # (* [Observer]&#40;observer&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Observer_pattern&#41;)
+* [옵저버](observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
 
 [//]: # (* [Strategy]&#40;strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
 
