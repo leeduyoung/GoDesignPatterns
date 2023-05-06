@@ -11,10 +11,9 @@
 * [인터프리터](interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
 * [상태](state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
 * [옵저버](observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+* [중재자](mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
 
 [//]: # (* [Strategy]&#40;strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
-
-[//]: # (* [Mediator]&#40;mediator&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Mediator_pattern&#41;)
 
 [//]: # (* [Chain of responsiblity]&#40;chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
 
