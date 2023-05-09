@@ -37,6 +37,8 @@
 
 * [프록시](structural/proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern)
 
+* [퍼사드](structural/facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
+
 [//]: # (* [Binary Tree compositions]&#40;structural/binary-tree-compositions&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Binary_tree&#41;)
 
 [//]: # (* [Bridge]&#40;structural/bridge&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Bridge_pattern&#41;)
