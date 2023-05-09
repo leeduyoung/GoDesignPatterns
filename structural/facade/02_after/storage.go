@@ -1,8 +1,18 @@
 package main
 
-import "fmt"
+type Storage struct {
+	db    *Database
+	cache *Cache
+}
 
-func main() {
+func NewStorage() *Storage {
+	return &Storage{
+		db:    NewDatabase(),
+		cache: NewCache(),
+	}
+}
+
+func (*Storage) Query(name string) *Person {
 	// 사용자 정보 조회
 
 	// Cache 조회
@@ -15,5 +25,5 @@ func main() {
 		person = cache.Query("kaye")
 	}
 
-	fmt.Println(person)
+	return person
 }
