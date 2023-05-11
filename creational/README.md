@@ -5,12 +5,10 @@
 이러한 패턴의 목적은 유연하고 유지 관리가 가능하며 효율적인 방식으로 개체를 만드는 방법을 제공한다.
 
 ## 목록
-
-* [추상 팩토리 메서드](abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
+* [팩토리 메소드](factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
+* [추상 팩토리 메소드](factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
 
 [//]: # (* [Builder]&#40;builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
-
-[//]: # (* [Factory method]&#40;factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Factory_pattern&#41;)
 
 [//]: # (* [Object Pool]&#40;pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
 

@@ -16,12 +16,11 @@
 [//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
 
 ## [생성 패턴](creational)
+* [팩토리 메소드](creational/factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
 
-[//]: # (* [Abstract Factory method]&#40;creational/abstract_factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Abstract_Factory_pattern&#41;)
+[//]: # (* [추상 팩토리 메소드]&#40;creational/abstract_factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Abstract_Factory_pattern&#41;)
 
 [//]: # (* [Builder]&#40;creational/builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
-
-[//]: # (* [Factory method]&#40;creational/factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Factory_pattern&#41;)
 
 [//]: # (* [Object Pool]&#40;creational/pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
 
