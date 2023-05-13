@@ -2,11 +2,17 @@
 
 ## [행동 관련 패턴](behavioral)
 * [인터프리터](behavioral/interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
+
 * [상태](behavioral/state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
+
 * [전략](behavioral/strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
+
 * [템플릿메소드](behavioral/template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
+ 
 * [메멘토](behavioral/memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
+ 
 * [옵저버](behavioral/observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+
 * [중재자](behavioral/mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
 
 [//]: # (* [Chain of responsiblity]&#40;behavioral/chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
@@ -18,7 +24,7 @@
 ## [생성 패턴](creational)
 * [팩토리 메소드](creational/factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
 
-[//]: # (* [추상 팩토리 메소드]&#40;creational/abstract_factory&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Abstract_Factory_pattern&#41;)
+* [추상 팩토리 메소드](creational/abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
 
 [//]: # (* [Builder]&#40;creational/builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
 
@@ -27,7 +33,6 @@
 [//]: # (* [Prototype]&#40;creational/prototype&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Prototype_pattern&#41;)
 
 ## [구조적인 패턴](structural)
-
 * [어댑터](structural/adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
 
 * [데코레이터](structural/decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)

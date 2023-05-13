@@ -5,12 +5,16 @@
 이러한 패턴은 개체 간의 통신 및 상호 작용을 개선하여 응용 프로그램을 보다 유연하고 확장 가능하며 유지 관리할 수 있도록 한다.
 
 ## 목록
-
 * [템플릿메소드](template_method) [:notebook:](https://en.wikipedia.org/wiki/Template_pattern)
+
 * [메멘토](memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
+ 
 * [인터프리터](interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
+ 
 * [상태](state) [:notebook:](https://en.wikipedia.org/wiki/State_pattern)
+ 
 * [옵저버](observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+ 
 * [중재자](mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
 
 [//]: # (* [Strategy]&#40;strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
