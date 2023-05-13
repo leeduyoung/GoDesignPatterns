@@ -9,7 +9,7 @@
 
 * [추상 팩토리 메소드](factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
 
-[//]: # (* [Builder]&#40;builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)
+* [빌더](builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 
 [//]: # (* [Object Pool]&#40;pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
 
