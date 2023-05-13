@@ -6,6 +6,7 @@
 
 ## 목록
 * [팩토리 메소드](factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
+
 * [추상 팩토리 메소드](factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
 
 [//]: # (* [Builder]&#40;builder&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Builder_pattern&#41;)

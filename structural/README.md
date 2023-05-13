@@ -5,12 +5,16 @@
 이러한 각 패턴은 유연성, 유지 관리성 및 재사용성을 촉진하는 방식으로 코드를 구조화하는 방법을 제공한다.
 
 ## 목록
-
 * [컴포짓](composite) [:notebook:](http://en.wikipedia.org/wiki/Composite_pattern)
+
 * [프록시](proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern)
+
 * [데코레이터](decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)
+
 * [어댑터](adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
+
 * [플라이웨이트](flyweight) [:notebook:](https://en.wikipedia.org/wiki/Flyweight_pattern)
+
 * [퍼사드](facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
 
 [//]: # (* [Binary Tree compositions]&#40;binary-tree-compositions&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Binary_tree&#41;)
