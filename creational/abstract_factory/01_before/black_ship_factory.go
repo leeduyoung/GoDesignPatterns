@@ -16,9 +16,9 @@ func (wsf BlackShipFactory) CreateShip(name string) *Ship {
 	)
 
 	// CREATE WHEEL & ANCHOR  <- 이부분을 바꾸고 싶다면 어떻게 될까?
-	wheel := new(WhiteWheel)
-	anchor := new(WhiteAnchor)
+	wheel := new(Wheel)
+	anchor := new(Anchor)
 	fmt.Println("set wheel & anchor")
 
-	return NewShip(name, color, logo, wheel, anchor)
+	return NewShip(name, color, logo, *wheel, *anchor)
 }

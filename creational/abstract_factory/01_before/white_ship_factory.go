@@ -16,9 +16,9 @@ func (wsf WhiteShipFactory) CreateShip(name string) *Ship {
 	)
 
 	// CREATE WHEEL & ANCHOR
-	wheel := new(WhiteWheel)
-	anchor := new(WhiteAnchor)
+	wheel := new(Wheel)
+	anchor := new(Anchor)
 	fmt.Println("set wheel & anchor")
 
-	return NewShip(name, color, logo, wheel, anchor)
+	return NewShip(name, color, logo, *wheel, *anchor)
 }

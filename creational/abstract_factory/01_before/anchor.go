@@ -1,4 +1,4 @@
 package main
 
-type WhiteAnchor struct {
+type Anchor struct {
 }

@@ -1,5 +1,4 @@
 package main
 
-type WhiteWheel struct {
+type Wheel struct {
 }
-
