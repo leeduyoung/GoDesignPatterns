@@ -28,9 +28,9 @@
 
 * [빌더](creational/builder) [:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 
-[//]: # (* [Object Pool]&#40;creational/pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
+* [프로토타입](creational/prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
 
-[//]: # (* [Prototype]&#40;creational/prototype&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Prototype_pattern&#41;)
+[//]: # (* [Object Pool]&#40;creational/pool&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Object_Pool_pattern&#41;)
 
 ## [구조적인 패턴](structural)
 * [어댑터](structural/adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
