@@ -17,6 +17,7 @@
 
 * [퍼사드](facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
 
+* [브릿지](bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern)
+
 [//]: # (* [Binary Tree compositions]&#40;binary-tree-compositions&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Binary_tree&#41;)
-[//]: # (* [Bridge]&#40;bridge&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Bridge_pattern&#41;)
 
