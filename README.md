@@ -17,7 +17,7 @@
 
 * [책임 연쇄](behavioral/chain) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
-[//]: # (* [Command]&#40;behavioral/command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
+* [커맨드](behavioral/command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 
 [//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
 

@@ -21,6 +21,6 @@
 
 * [책임 연쇄](chain) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
-[//]: # (* [Command]&#40;command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
+* [커맨드](command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 
 [//]: # (* [Visitor]&#40;visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
