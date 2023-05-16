@@ -17,9 +17,9 @@
  
 * [중재자](mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
 
-[//]: # (* [Strategy]&#40;strategy&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Strategy_pattern&#41;)
+* [전략](strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
 
-[//]: # (* [Chain of responsiblity]&#40;chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
+* [책임 연쇄](chain) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
 [//]: # (* [Command]&#40;command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
 

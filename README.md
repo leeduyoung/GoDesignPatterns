@@ -15,7 +15,7 @@
 
 * [중재자](behavioral/mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern)
 
-[//]: # (* [Chain of responsiblity]&#40;behavioral/chain&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern&#41;)
+* [책임 연쇄](behavioral/chain) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
 [//]: # (* [Command]&#40;behavioral/command&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Command_pattern&#41;)
 
