@@ -18,7 +18,7 @@
 **구성요소**
 - Command
   - 명령을 실행하기 위한 메소드를 선언하는 인터페이스 또는 추상클래스
-- ConcreateCommand
+- ConcreteCommand
   - Command 인터페이스를 구현하는 클래스
   - 특정 작업을 캡슐화하고 실제 작업을 수행하는 수신기 개체에 대한 참조를 보유한다.
 - Receiver
