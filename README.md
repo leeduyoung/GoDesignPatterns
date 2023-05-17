@@ -19,7 +19,7 @@
 
 * [커맨드](behavioral/command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 
-[//]: # (* [Visitor]&#40;behavioral/visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
+* [방문자](behavioral/visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 ## [생성 패턴](creational)
 * [팩토리 메소드](creational/factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
