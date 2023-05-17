@@ -23,4 +23,4 @@
 
 * [커맨드](command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 
-[//]: # (* [Visitor]&#40;visitor&#41; [:notebook:]&#40;https://en.wikipedia.org/wiki/Visitor_pattern&#41;)
+* [방문자](visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern)
