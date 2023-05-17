@@ -22,6 +22,8 @@
 * [방문자](behavioral/visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 ## [생성 패턴](creational)
+* [싱글톤](creational/singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
+
 * [팩토리 메소드](creational/factory) [:notebook:](http://en.wikipedia.org/wiki/Factory_pattern)
 
 * [추상 팩토리 메소드](creational/abstract_factory) [:notebook:](http://en.wikipedia.org/wiki/Abstract_Factory_pattern)
