@@ -15,4 +15,4 @@
 
 * [프로토타입](prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
 
-[//]: # (* [Singleton]&#40;singleton&#41; [:notebook:]&#40;http://en.wikipedia.org/wiki/Singleton_pattern&#41; &#40;is considered an anti-pattern! :no_entry:&#41;)
+* [싱글톤](singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
