@@ -9,11 +9,18 @@ func (dba *DBAuth) Authenticate(id, password string) (string, error) {
 	// step1. 사용자 정보로 인증 확인
 	userName := dbLogin(id, password)
 
-	fmt.Println("step2. 인증 실패시 예외처리")
-
-	fmt.Println("step3. 인증 성공시 인증정보 제공")
+	dba.handleFailedAuthentication()
+	dba.handleSuccessAuthentication()
 
 	return userName, nil
+}
+
+func (dba *DBAuth) handleSuccessAuthentication() {
+	fmt.Println("step3. 인증 성공시 인증정보 제공")
+}
+
+func (dba *DBAuth) handleFailedAuthentication() {
+	fmt.Println("step2. 인증 실패시 예외처리")
 }
 
 func dbLogin(id, password string) string {
