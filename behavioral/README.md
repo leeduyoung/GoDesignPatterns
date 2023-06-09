@@ -24,3 +24,5 @@
 * [커맨드](command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 
 * [방문자](visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern)
+
+* [반복자](iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern)
