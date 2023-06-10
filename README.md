@@ -21,6 +21,8 @@
 
 * [방문자](behavioral/visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern)
 
+* [반복자](behavioral/iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern)
+
 ## [생성 패턴](creational)
 * [싱글톤](creational/singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern) (is considered an anti-pattern! :no_entry:)
 
