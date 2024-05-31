@@ -1,12 +1,17 @@
 package main
 
-import "time"
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
 	// SHORT TRIP
 	shortTrip := NewTourPlan()
 	shortTrip.SetTitle("오레곤 롱비치 여행")
 	shortTrip.SetStartDate(time.Date(2025, 12, 25, 13, 0, 0, 0, time.Local))
+
+	fmt.Println(shortTrip)
 
 	// LONG TRIP
 	longTrip := NewTourPlan()
@@ -26,4 +31,6 @@ func main() {
 	longTrip.AddPlan(2, "휴식")
 	longTrip.AddPlan(2, "저녁식사")
 	longTrip.AddPlan(2, "맥주 파티")
+
+	fmt.Println(longTrip)
 }

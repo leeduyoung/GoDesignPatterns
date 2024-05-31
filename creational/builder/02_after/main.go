@@ -1,7 +1,12 @@
 package main
 
+import "fmt"
+
 func main() {
-	tourDirector := NewTourDirector(NewDefaultTourPlanBuilder())
-	tourDirector.CancunTrip()
-	tourDirector.LongBeachTrip()
+	tourDirector := NewTourDirector(NewTourPlanBuilder())
+	cancunTrip := tourDirector.CancunTrip()
+	fmt.Println(cancunTrip)
+
+	longBeachTrip := tourDirector.LongBeachTrip()
+	fmt.Println(longBeachTrip)
 }
