@@ -16,7 +16,7 @@ func (dp DetailPlan) Day() int {
 	return dp.day
 }
 
-func (dp DetailPlan) SetDay(day int) {
+func (dp *DetailPlan) SetDay(day int) {
 	dp.day = day
 }
 
@@ -24,6 +24,6 @@ func (dp DetailPlan) Plan() string {
 	return dp.plan
 }
 
-func (dp DetailPlan) SetPlan(plan string) {
+func (dp *DetailPlan) SetPlan(plan string) {
 	dp.plan = plan
 }

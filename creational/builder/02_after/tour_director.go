@@ -8,7 +8,7 @@ type TourDirector struct {
 
 func NewTourDirector(builder TourPlanBuilder) *TourDirector {
 	return &TourDirector{
-		builder,
+		TourPlanBuilder: builder,
 	}
 }
 
